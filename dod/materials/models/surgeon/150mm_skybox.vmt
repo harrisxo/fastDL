@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{ 
+	"$baseTexture" "models/surgeon/150mm_skybox"
+	"$model" 1
+	"$surfaceprop" "metal"
+} 

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "wicked_custom/messages/msg-nospawnenter"
+	"$surfaceprop" "rock"
+}

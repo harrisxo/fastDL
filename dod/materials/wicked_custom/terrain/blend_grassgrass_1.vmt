@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "wicked_custom/terrain/grass_3"
+	"$basetexture2" "wicked_custom/terrain/grass_4"
+
+	"%detailtype2" "wicked_grass_1"
+
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+	
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "grass"
+	
+	"$bumpbasetexture2withbumpmap" "0"
+}

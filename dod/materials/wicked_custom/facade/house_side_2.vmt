@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wicked_custom/facade/house_side_2"
+
+	"$surfaceprop" "plaster"
+}

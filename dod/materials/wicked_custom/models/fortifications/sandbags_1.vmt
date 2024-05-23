@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"wicked_custom/models/fortifications/sandbags_1"
+	"$surfaceprop" "sand"
+	"$bumpmap" "wicked_custom/models/fortifications/sandbags_1_normal"
+}

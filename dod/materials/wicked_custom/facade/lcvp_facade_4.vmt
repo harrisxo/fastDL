@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wicked_custom/facade/lcvp_facade_4"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$ignorez"     "0"
+	"$nocull"      "1"
+}

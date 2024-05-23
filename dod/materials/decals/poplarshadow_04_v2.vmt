@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/poplarshadow_04_v2"
+	"$translucent" 1
+	"$decal" 1
+	"$surfaceprop" "grass"
+	"%keywords" "shadow tree poplar"
+}

@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "wicked_custom/terrain/sand_5"
+	"$basetexture2" "wicked_custom/terrain/dirt_2"
+
+//	"$bumpmap" "wicked_custom/terrain/sand_1_normal"
+//	"$bumpmap2" "wicked_custom/terrain/dirt_2_normal"
+	
+	"$surfaceprop" "sand"
+	"$surfaceprop2" "dirt"
+
+	"$basetexturetransform" "center 0 0 scale 1 1 rotate 0  translate 0 0" 
+   	"$basetexturetransform2" "center 0 0 scale 0.5 0.5 rotate 0 translate 0 0"
+	
+	"$bumpbasetexture2withbumpmap" "0"
+}

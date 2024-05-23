@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "wicked_custom/overlays/concrete_blast_2"
+	"$decal" 1
+	"$surfaceprop" "rock"
+}

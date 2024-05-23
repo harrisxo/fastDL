@@ -1,0 +1,74 @@
+"Water"
+{
+	
+
+	"Water_DX60"
+	{
+		"$fallbackmaterial" "nature/water_canals_city_murky_dx70"
+	}
+	"Water_DX80"
+	{
+		"$refractamount" ".23"
+	}
+	"Water_DX81"
+	{
+		"$refractamount" ".23"
+	}
+
+
+
+	
+
+	"$abovewater" 1
+	"%compilewater" 1
+	"$forceexpensive" 1
+	"$reflectentities" 1
+	"$envmap" "env_cubemap"
+	"%tooltexture" "wicked_custom/water/water_ocean_1_normal"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "1"
+
+	"$CHEAPWATERSTARTDISTANCE" 700.0
+	"$CHEAPWATERENDDISTANCE" 1000.0
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "0.7"
+	"$reflecttint" "[0.7 0.7 0.7]"
+
+	"$scale" "[1 1]"
+
+	"$bumpmap" "wicked_custom/water/water_ocean_1_dudv"
+	"$normalmap" "wicked_custom/water/water_ocean_1_normal"
+
+	"$surfaceprop" "water"
+	"$bottommaterial" "wicked_custom/water/water_ocean_1_beneath"
+	"$bumpframe" "1"
+
+	"$fogenable" 1
+	"$fogcolor" "{70 65 65}"
+	"$fogstart" 0
+	"$fogend" 300
+
+	
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .005
+			"texturescrollangle" 90
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}

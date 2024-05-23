@@ -1,0 +1,23 @@
+particles_manifest
+{
+	"file"		"particles/error.pcf"
+	"file"		"particles/fire_01.pcf"
+	"file"		"particles/burning_fx.pcf"
+	"file"		"particles/explosions.pcf"
+	"file"		"particles/muzzleflashes.pcf"
+	"file"		"particles/rockettrail.pcf"
+	"file"		"particles/achievement.pcf"
+	"file"		"particles/wn71_water.pcf"
+	"file"		"particles/wn71_splash.pcf"
+	"file"		"particles/wicked_water.pcf"
+	"file"		"particles/wicked_snow.pcf"
+	"file"		"particles/wicked_fire.pcf"
+	"file"		"particles/wicked_smoke.pcf"
+	"file"		"particles/wicked_cover.pcf"
+	"file"		"particles/wicked_dust.pcf"
+	"file"		"particles/wicked_impact_dirt.pcf"
+	"file"		"particles/wicked_impact_water.pcf"
+	"file"		"particles/wicked_impact_water_skybox.pcf"
+	"file"		"particles/wicked_impact_dirt_skybox.pcf"
+
+}

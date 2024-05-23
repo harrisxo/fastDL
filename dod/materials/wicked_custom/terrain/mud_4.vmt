@@ -1,0 +1,11 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "Nature/rockfloor003a"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "Nature/rockfloor003a_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 2
+	"$envmapsaturation" 3
+	"$envmaptint" "[0.15 0.15 0.2]"
+	"$envmap" "env_cubemap"
+}

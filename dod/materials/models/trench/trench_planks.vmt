@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/trench/trench_planks"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

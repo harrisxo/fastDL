@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{ 
+	"$baseTexture" "models/surgeon/crate1"
+	"$model" 1
+	"$surfaceprop" "wood"
+	"$nocull" 1
+} 

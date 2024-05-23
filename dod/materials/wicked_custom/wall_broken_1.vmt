@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"wicked_custom/wall_broken_1"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "wicked_custom/wall_broken_1_normal"
+}

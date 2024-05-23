@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{ 
+     "$baseTexture" "surgeon/bunkerceiling"
+     "$normalmap" "surgeon/bunkerceiling_normal"
+     "$surfaceprop" "metal"
+} 

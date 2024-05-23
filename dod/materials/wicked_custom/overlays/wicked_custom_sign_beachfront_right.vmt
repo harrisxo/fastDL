@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "wicked_custom/overlays/wicked_custom_sign_beachfront_right"
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$decal" 1
+	"$surfaceprop" "wood"
+	"%keywords" "dod"
+}

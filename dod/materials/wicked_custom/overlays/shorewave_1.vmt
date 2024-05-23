@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+	"$basetexture" "wicked_custom/overlays/shorewave_1"
+	"$additive" 1
+	"$decal" 1
+//	"$ignorez" 1
+	"$surfaceprop" "waterplouf"
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 23
+		}
+
+}
+
+}

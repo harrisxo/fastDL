@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "wicked_custom/overlays/crater_1"
+	"$decal" 1
+//	"$decalscale" .10
+	"$surfaceprop" "dirt"
+}

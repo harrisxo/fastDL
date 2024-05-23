@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"wicked_custom/models/fortifications/trench_wall_1"
+	"$surfaceprop" "wood"
+	"$nocull" 1
+}

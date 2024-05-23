@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\american/american_dead1_dirtybloody"
+	"$surfaceprop" "flesh"
+//	"$bumpmap"     "models\player\american/american_dead1_normal"
+}

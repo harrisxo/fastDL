@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wicked_custom/wood/wood_trench_2"
+	"$bumpmap" "wicked_custom/wood/wood_trench_2_normal"
+	"$surfaceprop" "wood"
+}

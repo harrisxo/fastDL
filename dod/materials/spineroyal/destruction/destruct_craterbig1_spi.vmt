@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "spineroyal/destruction/destruct_craterbig1_spi"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "spineroyal"
+}

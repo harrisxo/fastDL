@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wicked_custom/terrain/mud_3"
+
+//	"$bumpmap" "wicked_custom/terrain/mud_3_normal"
+	
+	"$surfaceprop" "dirt"
+
+}

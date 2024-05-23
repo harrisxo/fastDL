@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "surgeon/sand001b"
+	"$basetexture2" "surgeon/sand001a"
+	"%tooltexture" "surgeon/sand001sdk"
+	"$surfaceprop" "sand"
+}

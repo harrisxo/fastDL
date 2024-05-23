@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "wicked_custom/concrete/concrete_2"
+
+	"$surfaceprop" "concrete"
+}

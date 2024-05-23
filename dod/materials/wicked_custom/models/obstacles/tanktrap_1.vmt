@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"wicked_custom/models/obstacles/tanktrap_1"
+	"$surfaceprop" "wood"
+//	"$bumpmap" "wicked_custom/models/obstacles/tanktrap_1_normal"
+}

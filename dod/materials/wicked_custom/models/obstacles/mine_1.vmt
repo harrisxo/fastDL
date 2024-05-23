@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "wicked_custom/models/obstacles/mine_1"
+	"$bumpmap" "wicked_custom/models/obstacles/mine_1_normal"
+	"$surfaceprop" "metal"
+
+	"$phong" "1"
+
+//	"$phongexponent" "10"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1 3 6]"
+//	"$halflambert" "1"
+	"$phongexponenttexture" "wicked_custom/models/obstacles/mine_1_exp"
+	"$phongalbedotint" "1"
+}

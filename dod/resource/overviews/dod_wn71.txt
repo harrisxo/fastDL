@@ -1,0 +1,12 @@
+// overview description file for dod_wn71.bsp
+
+"dod_wn71_b1"
+{
+	"material"	"overviews/dod_wn71"	// texture file
+	"pos_x"		"-4731"
+	"pos_y"		"5803"
+	"scale"		"9" 
+	"rotate"	"0"
+	"zoom"		"1"
+}
+

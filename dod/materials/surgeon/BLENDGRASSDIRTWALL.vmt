@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "ground/grass001"
+	"$basetexture2" "surgeon/dirtwall"
+	"%detailtype" "flash_grass01"
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"$surfaceprop" "dirt"
+}

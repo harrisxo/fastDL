@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "surgeon/bunkerdecal1"
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$decal" 1
+	"$decalscale" 1
+	"$surfaceprop" "plaster"
+}

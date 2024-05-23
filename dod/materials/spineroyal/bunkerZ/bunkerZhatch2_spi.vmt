@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "spineroyal/bunkerZ/bunkerZhatch2_spi"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "spineroyal"
+}

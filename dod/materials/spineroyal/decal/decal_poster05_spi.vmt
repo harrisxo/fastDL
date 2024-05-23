@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "spineroyal/decal/decal_poster05_spi"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"%keywords" "spineroyal"
+}
